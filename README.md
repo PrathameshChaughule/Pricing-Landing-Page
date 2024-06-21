@@ -19,7 +19,7 @@ This project is a responsive landing page designed to showcase various pricing p
 This landing page can be used as a template for any service or product requiring a pricing page. You can customize the content, styling, and layout to suit your specific needs.
 
 ## Screenshots
-![Screenshot 1](../screenshots/screenshot1.png)
+![Screenshot 1](../Screenshots/Screenshot1.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
