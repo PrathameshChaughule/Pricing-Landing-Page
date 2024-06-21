@@ -29,4 +29,4 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 - Inspiration and design ideas from various web design resources.
 
 ## Contact
-For any inquiries or feedback, please contact [your email](mailto:pvc14102002@gmail.com).
+For any inquiries or feedback, please contact [Email](mailto:pvc14102002@gmail.com).
