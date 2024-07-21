@@ -15,7 +15,11 @@ This project is a responsive landing page designed to showcase various pricing p
 - **CSS3:** Styling and layout, using Flexbox for card layout and media queries for responsiveness.
 - **Font Awesome:** Icons for the feature lists.
 
-- ## Usage
+## Demo
+Check out the live demo of the project [here](https://prathameshchaughule.github.io/E-commerce-Product-Page/)
+
+
+## Usage
 This landing page can be used as a template for any service or product requiring a pricing page. You can customize the content, styling, and layout to suit your specific needs.
 
 ## Screenshots
