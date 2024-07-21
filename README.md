@@ -16,7 +16,7 @@ This project is a responsive landing page designed to showcase various pricing p
 - **Font Awesome:** Icons for the feature lists.
 
 ## Demo
-Check out the live demo of the project [here](https://prathameshchaughule.github.io/E-commerce-Product-Page/)
+Check out the live demo of the project [here](https://prathameshchaughule.github.io/Pricing-Landing-Page/)
 
 
 ## Usage
